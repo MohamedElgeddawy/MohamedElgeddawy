@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohamedElgeddawy
+- 👋 Hi, I’m Mohamed Eslam Elgeddawy
 - 👀 I’m interested in AI,DS,ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
