@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed Eslam Elgeddawy
-- 👀 I’m interested in AI,DS,ML
+- 👀 I’m interested in DS,ML,Dl
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with my gmail mohamed2000esla@gmail.com
